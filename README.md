@@ -68,8 +68,8 @@ Currently pursuing my degree at **Bauman Moscow State Technical University (Kalu
 
 Feel free to reach out — whether it's about backend development, university collaboration, or tech in general.
 
-[![](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
-[![](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ichhabekeinherz)
+[![](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skywhywalker695@gmail.com)
 
 <br/>
 
