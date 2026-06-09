@@ -57,8 +57,6 @@ Currently pursuing my degree at **Bauman Moscow State Technical University (Kalu
 - Integrated the **Pillow** library to dynamically render customized greetings and graphics onto visual assets on the fly.
 ---
 
----
-
 ## 💬 Let's Connect
 
 <div align="center">
