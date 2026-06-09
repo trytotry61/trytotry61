@@ -55,11 +55,6 @@ Currently pursuing my degree at **Bauman Moscow State Technical University (Kalu
 ### 🤖 Automated Telegram Graphics Bot
 - Developed a high-performance Python-based Telegram bot automating personalized image generation.
 - Integrated the **Pillow** library to dynamically render customized greetings and graphics onto visual assets on the fly.
-
-### 🌐 Student Success Progressive Web App (PWA)
-- Developing a gamified tracking application designed to enhance student productivity.
-- Built featuring an achievement system, custom digital rewards, and a high-efficiency chat log parser on the backend.
-
 ---
 
 ---
