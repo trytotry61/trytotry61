@@ -12,17 +12,17 @@
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 Currently pursuing my degree at **Bauman Moscow State Technical University (Kaluga Branch)**, focusing on software engineering, core computer science principles, and backend development.
 
-- ☕ **Java Ecosystem** — Deep diving into Java Core, Object-Oriented Programming, and Collection Framework performance.
-- 📐 **Algorithms & Data Structures** — Implementing clean, optimized logic and practicing algorithmic problem-solving.
-- ⚙️ **Software Architecture** — Learning how to design scalable systems and write clean, maintainable code.
+-  **Java Ecosystem** — Deep diving into Java Core, Object-Oriented Programming, and Collection Framework performance.
+-  **Algorithms & Data Structures** — Implementing clean, optimized logic and practicing algorithmic problem-solving.
+-  **Software Architecture** — Learning how to design scalable systems and write clean, maintainable code.
 
 ---
 
-## 🛠️ Skills & Analytics
+## Skills & Analytics
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
@@ -45,19 +45,19 @@ Currently pursuing my degree at **Bauman Moscow State Technical University (Kalu
 
 ---
 
-## 🚀 Highlight Projects
+##  Highlight Projects
 
-### 📅 University Scheduling Web System
+###  University Scheduling Web System
 - Adapted and modified a localized scheduling platform to support real-time adjustments for technical institutions.
 - Implemented dedicated user roles, including custom editing interfaces for teachers and administrators.
 - Focused on backend data mapping and seamless synchronization.
 
-### 🤖 Automated Telegram Graphics Bot
+###  Automated Telegram Graphics Bot
 - Developed a high-performance Python-based Telegram bot automating personalized image generation.
 - Integrated the **Pillow** library to dynamically render customized greetings and graphics onto visual assets on the fly.
 ---
 
-## 💬 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
