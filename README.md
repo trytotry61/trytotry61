@@ -63,7 +63,6 @@ Currently pursuing my degree at **Bauman Moscow State Technical University (Kalu
 
 <div align="center">
 
-Feel free to reach out — whether it's about backend development, university collaboration, or tech in general.
 
 [![](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ichhabekeinherz)
 [![](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/егор-куракин-948a143a3 )
