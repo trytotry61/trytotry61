@@ -38,7 +38,7 @@ Currently pursuing my degree at **Bauman Moscow State Technical University (Kalu
 
 <div align="center">
 
-![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=trytotry61&show_icons=true&theme=vision_friendly_dark&hide_border=true&title_color=0077B5&icon_color=0077B5)
+[)https://github.com/[trytotry61]/github-stats/blob/generated/languages.svg#gh-light-mode-only(]
 ![Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=trytotry61&layout=compact&theme=vision_friendly_dark&hide_border=true&title_color=0077B5)
 
 </div>
