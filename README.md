@@ -67,8 +67,8 @@ Feel free to reach out — whether it's about backend development, university co
 
 [![](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ichhabekeinherz)
 [![](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/егор-куракин-948a143a3 )
-[![](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skywhywalker695@gmail.com)
-
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/trytotry61/)
+[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://trytotry61.github.io/DevBlog/)
 <br/>
 
 *"The only way to learn a new programming language is by writing programs in it."*
