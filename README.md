@@ -38,7 +38,7 @@ Currently pursuing my degree at **Bauman Moscow State Technical University (Kalu
 
 <div align="center">
 
-![GitHub stats](https://github-stats-psiyavushs-projects.vercel.app/api?username=trytotry61&theme=default&show_icons=true &hide=issues,contribs)
+![GitHub stats](https://github-stats-psiyavushs-projects.vercel.app/api?username=trytotry61&theme=default&show_icons=true&hide=stars,commits,prs,issues,contribs)
 ![Top Langs](https://github-stats-psiyavushs-projects.vercel.app/api/top-langs/?username=trytotry61&layout=compact)
 
 </div>
