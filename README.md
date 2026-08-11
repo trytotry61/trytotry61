@@ -28,7 +28,9 @@ Currently pursuing my degree at **Bauman Moscow State Technical University (Kalu
 
 **Programming & Backend**
 - Java (Core, OOP, Interfaces, StringBuilder optimization)
-- Go (REST APIs, WebSockets), Python, C++, C#
+- Python,
+- C++,
+- C#
 
 **Web & Frontend**
 - React (JSX, Hooks), Bootstrap 5, HTML5 & CSS3 (3D/Isometric layouts)
@@ -64,7 +66,7 @@ Currently pursuing my degree at **Bauman Moscow State Technical University (Kalu
 Feel free to reach out — whether it's about backend development, university collaboration, or tech in general.
 
 [![](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ichhabekeinherz)
-[![](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/егор-куракин-948a143a3 )
 [![](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skywhywalker695@gmail.com)
 
 <br/>
