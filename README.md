@@ -39,7 +39,7 @@ Currently pursuing my degree at **Bauman Moscow State Technical University (Kalu
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-stats-psiyavushs-projects.vercel.app/api?username=trytotry61&theme=default&show_icons=true)
-![Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=trytotry61&layout=compact&theme=vision_friendly_dark&hide_border=true&title_color=0077B5)
+![Top Langs](https://github-stats-psiyavushs-projects.vercel.app/api/top-langs/?username=trytotry61&layout=compact)
 
 </div>
 
