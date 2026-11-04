@@ -1,12 +1,8 @@
 <div align="center">
 
 # ✦ Hello, World!
+![gif](assets/yourcopiumdealer_328df1.gif)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Java+Developer+in+Progress;OOP+%26+Clean+Code+Enthusiast" alt="Typing SVG" />
-</p>
-
-*Building efficient backend systems, exploring robust architectures, and turning logic into functional software.*
 
 </div>
 
