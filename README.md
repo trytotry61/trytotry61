@@ -20,7 +20,7 @@ Currently pursuing my degree at **Bauman Moscow State Technical University (Kalu
 
 ## Skills & Analytics
 
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,git,py,html,css,js&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,java,git,py,html,css,js&theme=light)](https://skillicons.dev)
 
 **Programming & Backend**
 - Java (Core, OOP, Interfaces, StringBuilder optimization)
